@@ -13,5 +13,3 @@ x-umt=E0AA7eNLPMW/8gJ8wRPp7Ol74CGzXfdJ
 }
 ```
 
-
-![](https://github.com/FightingForWhat/idlefish_xianyu_spider-crawler-sender/raw/main/demo/demo11.png)
